@@ -20,7 +20,6 @@ Con experiencia liderando equipos en hackatones y startups, busco colaborar en p
 - 🌱 Estoy profundizando mis conocimientos en **comunicaciones inalámbricas**, protocolos como **TCP/IP y MQTT**, y programación de microcontroladores (**ESP32, STM32**).  
 - 👯 Me interesa colaborar en proyectos de código abierto relacionados con **Inteligencia Artificial**, **IoT** y **Telecomunicaciones**.  
 - 📫 Contáctame a través de mi correo: **kevin.pinto.a@uni.pe**.  
-- 😄 Pronombres: Él/She/Her.  
 
 ---
 
